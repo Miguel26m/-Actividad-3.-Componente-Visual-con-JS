@@ -1,4 +1,4 @@
-# Librería de Componente visual: Carrusel
+# Componente visual: Carrusel
 
 ### TECNOLÓGICO NACIONAL DE MÉXICO/
 ### INTITUTO TECNOLÓGICO DE OAXACA
@@ -13,7 +13,7 @@
 
 ## ¿Qué problema resuelve?
 
-Al desarrollar una pagina web el mostrar mucha información (imágenes, títulos y descripciones) puede saturar la pantalla. Este componente resuelve el problema del espacio proporcionando una interfaz limpia y navegable. Esta libreria es reutilizable por lo que evita que el desarrollador tenga que escribir código "hardcodeado" o depender de librerías externas o frameworks como React o Vue. Un ejemplo de uso de esta libreria podria ser en páginas de turismo donde quieres presentar varios lugares turisticos sin saturar la pantalla.
+Al desarrollar una pagina web el mostrar mucha información (imágenes, títulos y descripciones) puede saturar la pantalla. Este componente resuelve el problema del espacio proporcionando una interfaz limpia y navegable. El componente es reutilizable por lo que evita que el desarrollador tenga que escribir código "hardcodeado" o depender de librerías externas o frameworks como React o Vue. Un ejemplo de uso de esta componente podria ser en páginas de turismo donde quieres presentar varios lugares turisticos sin saturar la pantalla.
 
 ---
 
