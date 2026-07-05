@@ -67,11 +67,11 @@ const carruselDemo = new Carrusel('mi-carrusel', misDatos);
 
 *Aquí se muestra el componente renderizado y funcionando en el navegador:*
 
-![Captura del carrusel funcionando](ruta/a/tu/pri_pag.png)
+![Captura del carrusel funcionando](img/pri_pag.png)
 
 *Cambio de imagen en el carrusel probando el uso de los botones:*
 
-![Captura de la consola/DOM](ruta/a/tu/seg_pag.png)
+![Captura de la consola/DOM](img/seg_pag.png)
 
 ---
 
