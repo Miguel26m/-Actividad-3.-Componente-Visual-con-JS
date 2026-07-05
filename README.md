@@ -78,4 +78,4 @@ const carruselDemo = new Carrusel('mi-carrusel', misDatos);
 ## Video promocional
 Haz clic en el enlace de abajo para ver el componente en acción y conocer cómo implementarlo en menos de 60 segundos.
 
-[Video promocional](enlace-a-tu-video-de-youtube-o-drive)
+[Video promocional](https://drive.google.com/file/d/1FqVAOGaOyZyMxLsRzyVDpm5MYpkxeajK/view?usp=sharing)
